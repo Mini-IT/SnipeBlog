@@ -61,7 +61,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
 #  BASE_PATH : https://mini-it.github.io/SnipeBlog/ 
-  BASE_PATH : https://blog.snipeserver.com
+  BASE_PATH : http://blog.snipeserver.com
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
