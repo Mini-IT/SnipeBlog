@@ -2,11 +2,9 @@
 layout: post
 title: "Hello world!"
 description: ""
-category: 
-tags: []
+category: news 
+tags: [ news ]
 ---
 {% include JB/setup %}
-
-# Hello world!
 
 This new release brings the following additions to the Snipe server platform.
