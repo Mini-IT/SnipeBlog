@@ -8,7 +8,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 highlighter: pygments
 paginate: 5
 paginate_path: "/blog/page:num/"
-baseurl: /SnipeBlog
+#baseurl: /SnipeBlog
+baseurl:
 theme: the-program
 
 # Themes are encouraged to use these universal variables 
